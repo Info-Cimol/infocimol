@@ -1,5 +1,5 @@
 <?php
 
-define("URL", "http://localhost/SiteInfo/");
+define("URL", "http://localhost/infocimol/");
 
 ?>

@@ -13,11 +13,11 @@ $dataEnvio = date('d/m/y');
 $horaEnvio = date('h:i:s');
 $assunto = $_POST['assunto'];
 
-$menssagem = "
+$mensagem = "
     Nome: $nome
     E-mail: $email
     Telefone: $telefone
-    Menssagem: $msg
+    Mensagem: $msg
     Este e-mail foi enviado em $dataEnvio às $horaEnvio.
 ";
 
@@ -28,7 +28,7 @@ $headers ="MIME-Version: 1.0\n";
 $headers .="Content-type: text/html; charset=iso-8859-1\n";
 $headers .="From: $nome <$email>";
 
-mail($destino,$assunto,$menssagem,$headers);
+mail($destino,$assunto,$mensagem,$headers);
 
 echo "<meta http-equiv='refresh' content='10; URL=".URL."contato'>";
 

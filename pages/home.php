@@ -1,5 +1,3 @@
-<?php  include  'config.php'?>
-
 <div class="video">
 <div class="embed-responsive embed-responsive-16by9 iframe">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/SxldaTkGKQE?autoplay=1&loop=1" title="YouTube video player"

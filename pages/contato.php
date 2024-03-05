@@ -30,7 +30,7 @@
             </div>
         </div>
         <div class="message">
-            <label for="">Menssagem: </label>
+            <label for="">Mensagem: </label>
             <textarea name="msg" id="" cols="8" rows="1" required></textarea>
         </div>
         <div class="container-button">

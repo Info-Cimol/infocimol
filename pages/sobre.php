@@ -1,7 +1,7 @@
   <div class="container">
     <div class="row">
       <div class="col">
-        <h6 class="text">
+        <h6 class="text p-4">
           Destaque-se no mercado de trabalho com o curso técnico em Informática do CIMOL. Nossa formação de alta
           qualidade prepara você para os desafios da indústria de tecnologia. Com um corpo docente experiente e
           atualizado, você receberá o melhor suporte educacional. Nosso foco em tecnologias emergentes garante que você

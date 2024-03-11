@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+<?php  include "config.php"  ?>
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -29,7 +30,7 @@
             <a class="nav-link active" aria-current="page" href="<?php echo URL ?>">Inicio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="http://semanadainformatica.infocimol.com.br/" target="_NEW">Semana da
+            <a class="nav-link" href="https://semanadainformatica.infocimol.com.br/" target="_NEW">Semana da
               Informática</a>
           </li>
           <li class="nav-item">

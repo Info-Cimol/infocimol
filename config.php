@@ -1,5 +1,5 @@
 <?php
 
-define("URL", "https://infocimol.com.br");
+define("URL", "http://infocimol.com.br/");
 
 ?>
